@@ -1,1 +1,1 @@
-# Borg.games
+# [Borg.games](https://borg.games) bug tracker
